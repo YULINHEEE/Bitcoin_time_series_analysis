@@ -1,4 +1,4 @@
-# Time Series Analysis Assignment 2
+# Time Series Analysis
 # Data: Monthly historical performance of the Bitcoin index (in USD) 
 #     between August 2011 and January 2025
 rm(list=ls())
