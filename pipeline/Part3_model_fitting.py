@@ -1,4 +1,4 @@
-# Time Series Analysis Part 2B: Model Fitting and Comparison
+# Time Series Analysis Part 3: Model Fitting and Comparison
 
 from common_setup import *
 # Part3_model_fitting.py
