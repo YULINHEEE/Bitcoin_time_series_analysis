@@ -1,4 +1,4 @@
-# Time Series Analysis Step 1: Stationarity Test and Data Transformation
+# Time Series Analysis Part1: Stationarity Test and Data Transformation
 
 # Data: Monthly historical performance of the Bitcoin index (in USD) 
 #       between August 2011 and January 2025
