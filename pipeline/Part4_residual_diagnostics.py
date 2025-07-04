@@ -1,4 +1,4 @@
-# Time Series Analysis - Part 4: Residual Diagnostics and Forecasting
+# Time Series Analysis - Part 4: Residual Diagnostics
 
 from common_setup import *
 
